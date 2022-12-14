@@ -1,16 +1,17 @@
-# despesas
+# Despesas
 
-A new Flutter project.
+A new Flutter project for study and help a friend.
 
-## Getting Started
+## Purpose:
 
-This project is a starting point for a Flutter application.
+This APP contains the function to fill in forms, view histories and be able to download his history in .xlsx (Excel) format.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Database: MySQL
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Back-end: Dart
+
+Framework: Flutter
+
+
